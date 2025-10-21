@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cricket
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 You can reach me by my Website link: https://bikimk.github.io/Portfolio/
+- 📫 You can reach me by my Website link: [https://bikimk.github.io/Portfolio/](https://bikimk.github.io/portfolio-new-react/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Still Searching
 
